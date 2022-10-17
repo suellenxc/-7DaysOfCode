@@ -1,7 +1,7 @@
 <h1 align="center">OptimusTech</h1>
 <p align="center"><strong>#7DaysOfCode</strong></p
 <br>
-<p>Layout pronto em  dias, desafio Alura!</p>
+<p>Layout pronto em 7 dias, desafio Alura!</p>
 <h4 align="center"> 
     :construction:  Projeto finalizado  :construction:
 </h4><div display:"flex">
